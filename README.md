@@ -16,5 +16,5 @@
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **k8s**, **docker**, **IoT**, **development**, **design thinking**
 - 📫 Reach me: [https://twitter.com/eddychilakiller](https://twitter.com/eddychilakiller)
--  [https://www.buymeacoffee.com/chilakiller](Buy me a beer)
+-  Buy me a beer [https://www.buymeacoffee.com/chilakiller](Buy me a beer)
 - ⚡️ Fun fact: I love cats
