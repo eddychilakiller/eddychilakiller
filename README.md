@@ -8,7 +8,7 @@
 
 I’m not just another developer. I’m an architect of digital experiences, a lover of clean code, and a relentless advocate for accessibility. From the heart of Mexico City, I’ve spent years mastering the art of software engineering, leading projects that blend innovation with impact.
 
-With a strong foundation in Java, Python, and other languages, and expertise in cutting-edge technologies like Kubernetes, Docker, and AWS, I thrive in fast-paced environments where adaptability and problem-solving are key.
+With a strong foundation in Java and other languages, and expertise in cutting-edge technologies like Kubernetes, Docker, and AWS, I thrive in fast-paced environments where adaptability and problem-solving are key.
 
 ### My Philosophy
 - **Code should be efficient, but more importantly, it should be meaningful.**
