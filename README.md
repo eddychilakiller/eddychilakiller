@@ -17,6 +17,10 @@ With a strong foundation in Java and other languages, and expertise in cutting-e
 
 ## 💼 My Journey
 
+### 🚧 Backend Senior Java Developer 
+- **Challenge Accepted:** Managed and orchestrated critical batch processes and production deployments across high-volume financial systems, ensuring reliability, data integrity, and seamless integration between core banking, dispute management, and transaction processing platforms.
+- **Innovation Delivered:** Drove architectural and technical improvements in chargebacks and controversies workflows, implementing dynamic authentication strategies (CyberArk & basic), optimizing data extraction pipelines, and enabling scalable batch solutions for financial operations across LATAM environments.
+
 ### 🚧 Technical Leader at Axity for Walmart Inc.
 - **Challenge Accepted:** Managed and launched production changes across Walmart Inc.'s supermarkets, making sure everything ran smoother than a perfectly brewed cup of coffee.
 - **Innovation Delivered:** Pushed the limits of what's possible, rolling out significant enhancements in self-service kiosks and POS systems.
